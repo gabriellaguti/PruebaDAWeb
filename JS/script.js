@@ -1,6 +1,6 @@
-let button= document.querySelector("button")
+let saludoBtn= document.querySelector("saludoBtn")
 
-button.addEventListener("click", function(){
+saludoBtn.addEventListener("click", function(){
     saludo();
 })
 
